@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="" width=300 align="right" %}
 
-Describe yourself here. Dummy text ahead.
+I work as a Senior Software Developer at Walmart Labs where I develop services to ease the lives of Walmart Store Associates across the world. Prior to this, I was a Developer Associate at SAP Labs India where I worked on development of microservices for management of test data across various S4 systems. I was also responsible for development of intelligent solutions for quality assurance. In my tenure of around 2 years at SAP I've been a part of various innovation activities and have filed Invention Disclosure Forms to patent various ideas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I like to work in the area of Natural Language Processing and I have a belief that technology is a superpower we have endowed ourselves with so I can often be found researching on social issues while trying to find a solution to them using AI (preferably NLP). I also co- founded a startup TAFLE where which focused on enabling circular economy by bringing recyclers, collection partners and manufacturers on the same platform. The idea was amongst one of the 5 finalists at SAP 1 Billion Lives APJ round.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+I like to spend my spare time solving puzzles and playing chess occasionally. I am also a competitive coder with 4-star rating on codechef. I have a passion for writing and aspire to write poetry that "pierces the soul". You can find some of my works <a href = "/poetry/">here. 

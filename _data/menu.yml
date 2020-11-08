@@ -1,24 +1,24 @@
 - title: "About"
   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
-
-- title: "Projects"
-  href: "/projects/"
-
 - title: "Blog"
   href: "/blog/"
+
+- title: "Experience"
+  href: "/experience/"
+
+- title: "Research"
+  href: "/research/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Poetry and Essays"
+  href: "/poetry_essay/"
   subcategories:
-    - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+    - subtitle: "Poetry"
+      subhref: "/poetry_essay/poetry/"
+    - subtitle: "Essays"
+      subhref: "/poetry_essay/essay/"
+    # - subtitle: "Book Reviews"
+    #   subhref: "/miscellany/travel/"
