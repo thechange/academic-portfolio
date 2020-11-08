@@ -29,7 +29,7 @@ A complete list of my publications can also be found on my <a href = "https://sc
 </ul>
 
 <h2>Research Projects</h2>
-You can also check out my Github profile <a href="https://github.com/thechange">here</a> for a complete list of my projects.
+You can also check out my Github profile <a href="https://github.com/shanyas10">here</a> for a complete list of my projects.
 <ul>
 	<li>
 		<b>Using Affective Computing to analyze YouTube watching history to detect depression</b><br>
@@ -39,12 +39,12 @@ You can also check out my Github profile <a href="https://github.com/thechange">
 	<li>
 		<b>Detection of fake news during disasters</b><br>
 		False and incorrect information during disasters can lead to chaos and panic among people on the ground and have serious detrimental outcomes for public safety.In this project, I developed a multi-modal model using BiLSTM-CHarCNN and VGG 16 that can detect the credibility of a post by effectively capturing the semantics of the text along with the features of associated piece of multimedia in it.<br>
-		<a href="https://github.com/thechange/Fake-News-Detection"><div class="color-button">Report</div></a><a href="https://github.com/thechange/Fake-News-Detection"><div class="color-button">Code</div></a>
+		<a href="https://github.com/shanyas10/Fake-News-Detection"><div class="color-button">Report</div></a><a href="https://github.com/shanyas10/Fake-News-Detection"><div class="color-button">Code</div></a>
 	</li><br>
 	<li>
 		<b>Extractive Summarizer</b><br>
 		Developed an extraction based document summarizing application which automatically summarizes the text given by choosing the important sentences in the document.Used Naive Bayes classifierto train the model using certain statistical features- based on the frequency of some elements in text and linguistic features- based on the structure of text(length and position).<br>
-		<a href="https://github.com/thechange/SUMA-The-Summarizer"><div class="color-button">Code</div></a>
+		<a href="https://github.com/shanyas10/SUMA-The-Summarizer"><div class="color-button">Code</div></a>
 	</li><br>
 </ul>
 
