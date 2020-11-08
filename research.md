@@ -6,7 +6,7 @@ title: Research
 
 
 <h2>Publications</h2>
-A complete list of my publications can also be found on my <a href = "https://scholar.google.com/citations?user=ypCFnQ8AAAAJ&hl=">Google Scholar profile</a>
+A complete list of my publications can also be found on my <a href = "https://scholar.google.com/citations?user=ypCFnQ8AAAAJ&hl=">Google Scholar profile.</a>
 <ul>
 	<li>
 		<b>Evaluating Gender Bias in NLI System</b><br>
