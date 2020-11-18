@@ -10,6 +10,6 @@ I embed a current version of my CV below. You can also <a href = "ShanyaSharma_R
         <meta name="viewport" content="width=device-width">
   </head>
   <body>
-    <object data="ShanyaSharma_Resume.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+    <object data="Shanya_CV.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
   </body>
 </html>
