@@ -12,7 +12,7 @@ A complete list of my publications can also be found on my <a href = "https://sc
 		<b>Evaluating Gender Bias in NLI System</b><br>
 		<i>Sharma Shanya, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, <a href = "https://www.cs.mcgill.ca/~ksinha4/">Sinha, Koustuv</a></i><br>
 		NeurIPS 2020 Workshop on Dataset Curation and Security, 2020<br>
-		<a href=""><div class="color-button">Paper</div></a>
+		<a href="https://securedata.lol/"><div class="color-button">Paper</div></a>
 	</li><br>
 	<li>
 		<b>Assessing viewer’s mental health by detecting depression in youtube videos</b><br>
@@ -48,6 +48,24 @@ You can also check out my Github profile <a href="https://github.com/shanyas10">
 	</li><br>
 </ul>
 
+<h2>Reviewer</h2>
+<ul>
+	<li>
+	Neural Information Processing Systems (NeurIPS) 2020
+	</li><br>
+	
+	<li>
+	NeurIPS Machine Learning For Health Workshop (ML4H) 2020
+	</li><br>
+
+	<li>
+	ACM Conference on Health, Inference and Learning (CHIL)
+	</li><br>
+	
+	<li>
+	NeurIPS Machine Learning For Health Workshop (ML4H) 2019
+	</li><br>
+</ul>
 <!-- <h2>Research Implementations</h2>
 <ul>
 	<li>
