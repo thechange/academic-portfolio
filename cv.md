@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-I embed a current version of my CV below. You can also <a href = "ShanyaSharma_Resume.pdf">download the PDF here.</a>
+I embed a current version of my CV below. You can also <a href = "Shanya_CV.pdf">download the PDF here.</a>
 <html>
   <head>
     <meta charset="utf-8" />
