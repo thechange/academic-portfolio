@@ -32,6 +32,12 @@ A complete list of my publications can also be found on my <a href = "https://sc
 You can also check out my Github profile <a href="https://github.com/shanyas10">here</a> for a complete list of my projects.
 <ul>
 	<li>
+		<b>Peer-to-peer AI-based tracing of COVID-19</b><br>
+		Contributed to the simulator of Peer-to-Peer AI Tracing App delegated by Prof. Yoshua Bengio. The simulator simulates human mobility along with COVID-19 spreading in a city, while considering a city to consist of houses, grocery stores, parks, workplaces, and other non-essential establishments. Contributed on simulating mobility by simulating number of houses, stores, parks in a city. (Please note that my github handle, mentioned as @thechange in the repository, has been changed to @shanyas10)
+		<a href="https://mila.quebec/wp-content/uploads/2020/05/COVI-whitepaper-V1.pdf"><div class="color-button">Report</div></a>
+		</div></a><a href="https://github.com/pg2455/covid_p2p_simulation"><div class="color-button">Code</div></a>
+	</li><br>
+	<li>
 		<b>Using Affective Computing to analyze YouTube watching history to detect depression</b><br>
 		The project is based on the theory Misery loves company, i.e. in misery we tend to consume content such as music, literature etc. that we relate to.It is aimed at calculation of affective scores of videos using the audio visual feature and further analyzing the affective pattern generated from the YouTube watching history of an individual to predict his depression severity score.<br>
 		<a href="http://thechange.tech/"><div class="color-button">Report</div></a>
