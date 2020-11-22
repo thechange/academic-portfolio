@@ -12,28 +12,28 @@ A complete list of my publications can also be found on my <a href = "https://sc
 		<b>Evaluating Gender Bias in NLI System</b><br>
 		<i>Sharma Shanya, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, <a href = "https://www.cs.mcgill.ca/~ksinha4/">Sinha, Koustuv</a></i><br>
 		NeurIPS 2020 Workshop on Dataset Curation and Security, 2020<br>
-        Gender-bias stereotypes have recently raised significant ethical concerns in natural language processing. However, progress in detection and evaluation of gender-bias in natural language understanding through inference is limited and requires further investigation. In this work, we propose an evaluation methodology to measure these biases by constructing a challenge task which involves pairing gender neutral premise against gender-specific hypothesis. We use our challenge task to investigate state-of-the-art NLI models on the presence of gender stereotypes using occupations. Our findings suggest that three models (BERT, RoBERTa, BART) trained on MNLI and SNLI datasets are significantly prone to gender-induced prediction errors. We also find that debiasing techniques such as augmenting the training dataset to ensure a gender-balanced dataset can help reduce such bias in certain cases. <br>
+        <!-- Gender-bias stereotypes have recently raised significant ethical concerns in natural language processing. However, progress in detection and evaluation of gender-bias in natural language understanding through inference is limited and requires further investigation. In this work, we propose an evaluation methodology to measure these biases by constructing a challenge task which involves pairing gender neutral premise against gender-specific hypothesis. We use our challenge task to investigate state-of-the-art NLI models on the presence of gender stereotypes using occupations. Our findings suggest that three models (BERT, RoBERTa, BART) trained on MNLI and SNLI datasets are significantly prone to gender-induced prediction errors. We also find that debiasing techniques such as augmenting the training dataset to ensure a gender-balanced dataset can help reduce such bias in certain cases. <br> -->
 		<a href="https://github.com/shanyas10/Evaluating-gender-bias/blob/master/Paper.pdf"><div class="color-button">Paper</div></a>
 	</li><br>
 	<li>
 		<b>Assessing viewer’s mental health by detecting depression in youtube videos</b><br>
 		<i>Sharma Shanya, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a></i><br>
 		 NeurIPS 2019 AISG Workshop, 2019<br>
-		Depression is one of the most prevalent mental health issues around the world, proving to be one
+		<!-- Depression is one of the most prevalent mental health issues around the world, proving to be one
         of the leading causes of suicide and placing large economic burdens on families and society. In
         this paper, we develop and test the efficacy of machine learning techniques applied to the content of
         YouTube videos captured through their transcripts and determine if the videos are depressive or have a
         depressing trigger. Our model can detect depressive videos with an accuracy of 83%. We also introduce
         a real-life evaluation technique to validate our classification based on the comments posted on a video
         by calculating the CES-D scores of the comments. This work conforms greatly with UN Sustainable
-        Goal of ensuring Good Health and Well Being with major conformity with section UN SDG 3.4.<br>
+        Goal of ensuring Good Health and Well Being with major conformity with section UN SDG 3.4.<br> -->
 		<a href="https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/52_aisg_neurips2019.pdf"><div class="color-button">Paper</div></a>
 	</li><br>
 	<li>
 		<b>Building scalable mobile edge computing by enhancing quality of services</b><br>
 		<i><a href = "https://scholar.google.co.in/citations?user=xtMDCsQAAAAJ&hl">Tiwary Mayank</a> Sharma Shanya, <a href = "https://scholar.google.co.in/citations?user=Tjmnc3sAAAAJ&hl">Mishra, Pritish</a></i><br>
 		 International Conference on Innovations in Information Technology (IIT), 2018<br>
-         With the new computing archutecture supported by Mobile Edge Computing (MEC) brings services to the physical proximity of end users, resource rich mobile devices such as smartphones can now offer computational services to another smartphones. Leveraging the computational resources from mobile cloudlet clusters the availability of mobile nodes is the most important attribute. The effect of movement of mobile devices in real life scenarios has not been captured reliably. This work focuses on improving the Quality of Service (QoS) by considering the effect of mobility deviation. This paper presents an dynamic pricing model which calculates the deviation of the contributors and optimises the price depending on the demand-supply curve. Finally, the proposed scheme is simulated in NS3 environment and is compared with existing schemes to validate the performance of proposed scheme. We observe that there is a proposed steep increase in overall utility in terms of response time and resource utilization with the proposed scheme.<br>
+         <!-- With the new computing archutecture supported by Mobile Edge Computing (MEC) brings services to the physical proximity of end users, resource rich mobile devices such as smartphones can now offer computational services to another smartphones. Leveraging the computational resources from mobile cloudlet clusters the availability of mobile nodes is the most important attribute. The effect of movement of mobile devices in real life scenarios has not been captured reliably. This work focuses on improving the Quality of Service (QoS) by considering the effect of mobility deviation. This paper presents an dynamic pricing model which calculates the deviation of the contributors and optimises the price depending on the demand-supply curve. Finally, the proposed scheme is simulated in NS3 environment and is compared with existing schemes to validate the performance of proposed scheme. We observe that there is a proposed steep increase in overall utility in terms of response time and resource utilization with the proposed scheme.<br> -->
 		<a href="https://ieeexplore.ieee.org/abstract/document/8605955"><div class="color-button">Paper</div></a>
 	</li><br>
 </ul>
