@@ -39,7 +39,7 @@ A complete list of my publications can also be found on my <a href = "https://sc
 </ul>
 
 <h2>Research Projects</h2>
-You can also check out my Github profile <a href="https://github.com/shanyas10">here</a> for a complete list of my projects.
+You can also check out my <a href="https://github.com/shanyas10">Github profile</a> for a complete list of my projects.
 <ul>
 	<li>
 		<b>Peer-to-peer AI-based tracing of COVID-19</b><br>
