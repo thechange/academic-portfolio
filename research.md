@@ -18,14 +18,7 @@ A complete list of my publications can also be found on my <a href = "https://sc
 		<b>Assessing viewer’s mental health by detecting depression in youtube videos</b><br>
 		<i>Sharma Shanya, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a></i><br>
 		 NeurIPS 2019 AISG Workshop, 2019<br>
-		 Depression is one of the most prevalent mental health issues around the world, proving to be one
-of the leading causes of suicide and placing large economic burdens on families and society. In
-this paper, we develop and test the efficacy of machine learning techniques applied to the content of
-YouTube videos captured through their transcripts and determine if the videos are depressive or have a
-depressing trigger. Our model can detect depressive videos with an accuracy of 83%. We also introduce
-a real-life evaluation technique to validate our classification based on the comments posted on a video
-by calculating the CES-D scores of the comments. This work conforms greatly with UN Sustainable
-Goal of ensuring Good Health and Well Being with major conformity with section UN SDG 3.4.
+		
 		<a href="https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/52_aisg_neurips2019.pdf"><div class="color-button">Paper</div></a>
 	</li><br>
 	<li>
