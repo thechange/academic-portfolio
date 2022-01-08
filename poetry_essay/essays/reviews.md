@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-permalink: /poetry_essay/essays/reviews
+permalink: /poetry_essay/essays/reviews/
 ---
 
 Book/Story Reviews
