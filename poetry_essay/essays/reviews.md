@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Essays
+title: Reviews
 permalink: /poetry_essay/essays/reviews
 ---
 
