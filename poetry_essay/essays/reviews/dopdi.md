@@ -5,11 +5,9 @@ permalink: /poetry_essay/essays/reviews/dopdi
 ---
 
 
-Author: Mahashweta Devi
-
-Genre: Fiction, Short Stories
-
-Type: Paperback
+Author: Mahashweta Devi  
+Genre: Fiction, Short Stories  
+Type: Paperback  
 
 **"There is not a man here that I should be ashamed of. I will not let you put my cloth on me. What can you do? Come on, kounter me-come on, kounter me—?"**
 
