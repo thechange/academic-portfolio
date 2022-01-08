@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Essays
+title: Dopdi
 permalink: /poetry_essay/essays/reviews/dopdi
 ---
 
-## Dopdi:
 
 Author: Mahashweta Devi
+
 Genre: Fiction, Short Stories
-Status: Ongoing
+
 Type: Paperback
 
-"There is not a man here that I should be ashamed of. I will not let you put my cloth on me. What can you do? Come on, kounter me-come on, kounter me—?"
+** "There is not a man here that I should be ashamed of. I will not let you put my cloth on me. What can you do? Come on, kounter me-come on, kounter me—?" **
 
 When I first watched Mahabharata, I was filled with rage on seeing Draupadi being saved from men— by yet another man. A woman who carried within her the power to uproot an entire kingdom for dishonoring her was not a damsel in distress. Yajnaseni could have set the world on fire, on her own. I wanted her not to wait for another man to save her but to shatter the male authority and hegemonic structure that tried to disrobe her of her modesty. I wanted Draupadi to be her own savior, to be fearless, to be what *Dopdi* is. As I write this, Dopdi Mehjen’s laughter, unapologetic and unashamed, rings clearly through my ears. In her amazing short story Draupadi from her short fiction collection Breast Stories, Mahashweta Devi’s writes about a character that is defiant and reclaims agency in the face of unimaginable violence.
 
