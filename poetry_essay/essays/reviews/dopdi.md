@@ -11,15 +11,15 @@ Type: Paperback
 
 **"There is not a man here that I should be ashamed of. I will not let you put my cloth on me. What can you do? Come on, kounter me-come on, kounter me—?"**
 
-When I first watched Mahabharata, I was filled with rage on seeing Draupadi being saved from men— by yet another man. A woman who carried within her the power to uproot an entire kingdom for dishonoring her was not a damsel in distress. *Yajnaseni* could have set the world on fire, on her own. I wanted her to not wait for another man to save her but to shatter the male authority and hegemonic structure that tried to disrobe her of her modesty. I wanted Draupadi to be her own savior, to be fearless, to be what *Dopdi* is. As I write this, Dopdi Mehjen’s laughter, unapologetic and unashamed, rings clearly through my ears. In her amazing short story Draupadi from her short fiction collection Breast Stories, Mahashweta Devi’s writes about a character that is defiant and reclaims agency in the face of unimaginable violence.
+When I first watched Mahabharata, I was filled with rage on seeing Draupadi being saved from men— by yet another man. A woman who carried within her the power to uproot an entire kingdom for dishonoring her was not a damsel in distress. *Yajnaseni* could have set the world on fire, on her own. I wanted her to not wait for another man to save her but to shatter the male authority and hegemonic structure that tried to disrobe her of her modesty. I wanted Draupadi to be her own savior, to be fearless, to be what *Dopdi* is. As I write this, Dopdi Mehjen’s laughter, unapologetic and unashamed, rings clearly through my ears. In her amazing short story, Draupadi, from her short fiction collection Breast Stories, Mahashweta Devi writes about a character that is defiant and reclaims agency in the face of unimaginable violence.
 
-Draupadi(or Dopdi) is set in the West Bengal of 1971 and is the story of a feared Santhal woman Dopdi Mehjen who, along with her husband Dulna Majhi and other comrades, is responsible for the murder of Surja Sahu - a landlord in Bakuli and is now being hunted by the police led by Senanayak. Draupadi is not just a story of a rebellious woman who was courageous when all was done to strip her of it. But it’s also a reflection of the society and the barriers, of language, culture, perception,  that stand upright between the subaltern and the rest.
+Draupadi(or Dopdi) is set in the West Bengal of 1971 and is the story of a feared Santhal woman Dopdi Mehjen who, along with her husband Dulna Majhi and other comrades, is responsible for the murder of Surja Sahu - a landlord in Bakuli - and is now being hunted by the police led by Senanayak. Draupadi is not just a story of a rebellious woman who was courageous when all was done to strip her of it. But it’s also a reflection of the society and the barriers, of language, culture, perception,  that stand upright between the subaltern and the rest.
 
 **Comparision with Mahabharat:**
 
 With stark contrast to Mahabharata in almost all aspects, the character’s story intersects with her namesake when the Senanayak orders his men to “make her”  and “do the needful”. But unlike Mahabharata, Dopdi Mehjen, a tribal woman whose name is too heroic to let a tribal have a right over it, has no savior. She is captured, disrobed and disregarded in the most inhuman way. *Dopdi Mehjen is kountered*.
 
-“When the kounter you, your hands are tied behind you. All your bones are crushed, your sex is a terrible wound. *Killed by police in an encounter*.” 
+“When they kounter you, your hands are tied behind you. All your bones are crushed, your sex is a terrible wound. *Killed by police in an encounter*.” 
 
 On being left with her cloth and asked to get dressed before going to the Burra Sahib’s tent, Draupadi, who is deemed to have gone crazy by the guard, walks naked. Called an unarmed target by the author, Dopdi is a terrifying superobject turning all “efforts” to turn her into a submissive woman futile.
 
@@ -27,7 +27,7 @@ On being left with her cloth and asked to get dressed before going to the Burra 
 
 Unlike her namesake, Dopdi is wounded, her thigh and pubic hair matted with dry blood and yet she shakes with an indomitable laughter comprehensible to none. Her defiance and resistance is terrifying:
 
-“Draupadi pushes the Senanayak with her two mangles breasts, and for the first time Senanayak is afraid to stand before and unarmed target, terribly afraid."
+“Draupadi pushes the Senanayak with her two mangled breasts, and for the first time Senanayak is afraid to stand before and unarmed target, terribly afraid."
 
 **The subtle weaving of characters:**
 
