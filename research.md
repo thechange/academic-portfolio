@@ -86,28 +86,28 @@ You can also check out my <a href="https://github.com/shanyas10">Github profile<
 <ul>
 	<li>
 	International Conference on Machine Learning (ICML) 2022
-	</li><br>
+	</li>
 	<li>
 	International Conference on Learning Representations (ICLR) 2021
-	</li><br>
+	</li>
 	<li>
 	ACM Conference on Health, Inference and Learning (CHIL) 2021
-	</li><br>
+	</li>
 	<li>
 	International Conference on Machine Learning (ICML) 2021
-	</li><br>
+	</li>
 	<li>
 	Neural Information Processing Systems (NeurIPS) 2020
-	</li><br>
+	</li>
 	<li>
 	NeurIPS Machine Learning For Health Workshop (ML4H) 2020
-	</li><br>
+	</li>
 	<li>
 	ACM Conference on Health, Inference and Learning (CHIL) 2020
-	</li><br>
+	</li>
 	<li>
 	NeurIPS Machine Learning For Health Workshop (ML4H) 2019
-	</li><br>
+	</li>
 </ul>
 <!-- <h2>Research Implementations</h2>
 <ul>
