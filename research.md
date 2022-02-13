@@ -21,7 +21,7 @@ Publications in reversed chronological order. A complete list can also be found 
 	</li>
 	<li>
 		<b>Evaluating Gender Bias in NLI System</b><br>
-		<i>Sharma Shanya, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, <a href = "https://www.cs.mcgill.ca/~ksinha4/">Sinha, Koustuv</a></i><br>
+		<i><b>Sharma Shanya</b>, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, <a href = "https://www.cs.mcgill.ca/~ksinha4/">Sinha, Koustuv</a></i><br>
 		NeurIPS 2020 Workshop on Dataset Curation and Security, 2020<br>
         <!-- Gender-bias stereotypes have recently raised significant ethical concerns in natural language processing. However, progress in detection and evaluation of gender-bias in natural language understanding through inference is limited and requires further investigation. In this work, we propose an evaluation methodology to measure these biases by constructing a challenge task which involves pairing gender neutral premise against gender-specific hypothesis. We use our challenge task to investigate state-of-the-art NLI models on the presence of gender stereotypes using occupations. Our findings suggest that three models (BERT, RoBERTa, BART) trained on MNLI and SNLI datasets are significantly prone to gender-induced prediction errors. We also find that debiasing techniques such as augmenting the training dataset to ensure a gender-balanced dataset can help reduce such bias in certain cases. <br> -->
 		<a href="https://arxiv.org/pdf/2105.05541"><div class="color-button">Paper</div></a>
