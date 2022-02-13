@@ -20,5 +20,7 @@
       subhref: "/poetry_essay/poetry/"
     - subtitle: "Essays"
       subhref: "/poetry_essay/essays/"
+    - subtitle: "Bookmarks"
+      subhref: "/poetry_essay/bookmarks/"
     # - subtitle: "Book Reviews"
     #   subhref: "/miscellany/travel/"
