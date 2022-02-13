@@ -12,6 +12,7 @@ Publications in reversed chronological order. A complete list can also be found 
 	<b>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</b><br>
 	arXiv:2202.01279, 2022
 	<i><a href = "http://cs.brown.edu/people/sbach/">Bach, Stephen H.</a>, <a href="https://scholar.google.fr/citations?user=6STg_7IAAAAJ&hl=fr">Sanh, Victor</a>, Yong, Zheng-Xin, <a href = "https://representation.ai/">Webson, Albert</a>, <a href = "https://colinraffel.com/">Raffel, Colin</a>, Nayak, Nihal V., Sharma, Abheesht, Kim, Taewoon, Bari, M Saiful, Fevry, Thibault, Alyafeai, Zaid,  <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, Santilli, Andrea, Sun, Zhiqing, Ben-David, Srulik, Xu, Canwen, Chhablani, Gunjan, Wang, Han, Fries, Jason Alan, Al-shaibani, Maged S., <b>Sharma, Shanya</b>, Thakker, Urmish, Almubarak, Khalid, Tang, Xiangru, Tang, Xiangru, Jiang, Mike Tian-Jian, and <a href = "http://rush-nlp.com/">Rush, Alexander M</a></i><br>
+	<a href = "https://arxiv.org/abs/2202.01279"><div class="color-button">Paper</div></a>
 	</li>
 	<li>
 	<b>Multitask Prompted Training Enables Zero-Shot Task Generalization</b><br>
