@@ -12,8 +12,16 @@ title: Experience
 		<br>
 		<i> August 2020 - Present </i>
 		<ul>
+			<li>Responsible for the research and development of matchmaker to optimally assign tasks to store and warehouse associates. Observed a 50\% improvement in the metrics through the POC developed using Google OR-Tools.
+			</li>
 			<li>
-			Responsible for end-to-end development of backend services for Return Management systems for Walmart store associates with WCNP as the cloud platform.
+			Responsible for integration of Directme-STA with logging and monitoring frameworks like Prometheus, Grafana, Splunk etc.
+			</li>
+			<li>
+			Developed an elastic push gateway using Apache Flume to receive data metrics, aggregate and push to a Kafka Topic.
+			</li>
+			<li>
+			Developed services for Return and Recall Management System for Walmart Stores. Received spot award for the contribution.
 			</li>
 		</ul>
 	</li><br>
