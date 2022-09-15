@@ -9,8 +9,20 @@ title: Research
 Publications in reversed chronological order. A complete list can also be found on my <a href = "https://scholar.google.com/citations?user=ypCFnQ8AAAAJ&hl=">Google Scholar profile.</a>
 <ul>
 	<li>
+	<b>How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts</b><br>
+	arXiv:2205.10762(Under Submission), 2022
+	<i><b>Sharma Shanya</b>, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, <a href = "https://www.cs.mcgill.ca/~ksinha4/">Sinha, Koustuv</a></i><br>
+	<a href = "https://arxiv.org/abs/2202.01279"><div class="color-button">Paper</div></a>
+	</li><br>
+	<li>
+	<b>You reap what you sow: On the Challenges of Bias Evaluation Under Multilingual Settings</b><br>
+	Challenges & Perspectives in Creating Large Language Models workshop at ACL, 2022
+	<i>Talat,Zeerak, Névéol,Aurélie, Biderman,Stella, Clinciu,Miruna, <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, Longpre,Shayne, Luccioni,Sasha, Masoud,Maraim, Mitchell,Margaret, Dragomir,Radev, <b>Sharma,Shanya</b>, Subramonian,Arjun, Tae,Jaesung, Tan,Samson , Tunuguntla,Deepak, and Wal,Oskar</i><br>
+	<a href = "https://arxiv.org/abs/2202.01279"><div class="color-button">Paper</div></a>
+	</li><br>
+	<li>
 	<b>PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts</b><br>
-	arXiv:2202.01279, 2022
+	60th Annual Meeting of the Association for Computational Linguistics (ACL), Demo Track, 2022
 	<i><a href = "http://cs.brown.edu/people/sbach/">Bach, Stephen H.</a>, <a href="https://scholar.google.fr/citations?user=6STg_7IAAAAJ&hl=fr">Sanh, Victor</a>, Yong, Zheng-Xin, <a href = "https://representation.ai/">Webson, Albert</a>, <a href = "https://colinraffel.com/">Raffel, Colin</a>, Nayak, Nihal V., Sharma, Abheesht, Kim, Taewoon, Bari, M Saiful, Fevry, Thibault, Alyafeai, Zaid,  <a href = "https://in.linkedin.com/in/manandey">Dey, Manan</a>, Santilli, Andrea, Sun, Zhiqing, Ben-David, Srulik, Xu, Canwen, Chhablani, Gunjan, Wang, Han, Fries, Jason Alan, Al-shaibani, Maged S., <b>Sharma, Shanya</b>, Thakker, Urmish, Almubarak, Khalid, Tang, Xiangru, Tang, Xiangru, Jiang, Mike Tian-Jian, and <a href = "http://rush-nlp.com/">Rush, Alexander M</a></i><br>
 	<a href = "https://arxiv.org/abs/2202.01279"><div class="color-button">Paper</div></a>
 	</li><br>
